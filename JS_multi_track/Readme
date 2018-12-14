@@ -1,1 +1,3 @@
 The trajectory map for multi-model integration
+
+The code for visualizing multiple tracks were revised from gmplot (https://github.com/vgm64/gmplot), please refer to their code for more details. 
